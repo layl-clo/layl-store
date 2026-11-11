@@ -6,7 +6,7 @@
 
 <p align="center">
   Худи, штаны и футболки LAYL. Каталог, корзина и заказ в WhatsApp или Telegram — без регистрации.<br>
-  <b><a href="https://allibayev.github.io/layl-store/">Открыть сайт →</a></b>
+  <b><a href="https://layl-clo.github.io/layl-store/">Открыть сайт →</a></b>
 </p>
 
 > Тестовая версия. ليل (layl) — по-арабски «ночь», коллекция «حرية» — «свобода».
